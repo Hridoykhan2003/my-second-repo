@@ -1,5 +1,9 @@
-h{
+h1{
     color: aqua;
+}
+h2{
+    font-size: xx-large;
+    font-weight: 900;
 }
 p{
     color: blueviolet;
